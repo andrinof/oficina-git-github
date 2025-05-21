@@ -2,3 +2,5 @@
 Repositório teste - oficina
 
 ## meu primeiro projeto Git e Github
+
+Meu parágrafo teste.
